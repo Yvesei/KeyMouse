@@ -1,0 +1,9 @@
+# Local builds and Xcode user data
+/build/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+
+# Local workspaces unrelated to this app
+/codex-*/
+/codexbar-*/
